@@ -12,8 +12,8 @@
 - ⚡ Fun fact: I love to ride motocycles and bowl
 
 ### Connect with me:
-[![website](./img/twitter-light.svg)](https://twitter.com/chadelofson#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/chadelofson#gh-dark-mode-only)
+[![website](./img/twitter-154-svgrepo-com.svg)](https://twitter.com/chadelofson#gh-light-mode-only)
+[![website](./img/twitter-svgrepo-com.svg)](https://twitter.com/chadelofson#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/chadelofson#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/chadelofson#gh-dark-mode-only)
