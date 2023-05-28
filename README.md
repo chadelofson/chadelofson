@@ -17,7 +17,6 @@
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/chadelofson#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/chadelofson#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 ### Languages and Tools:
 [<img align="left" alt="NeoVIM" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />](https://neovim.io)
