@@ -58,6 +58,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   <!--START_SECTION:activity-->
+1. 🚀 Published release [v1.0.0](https://github.com/chadelofson/03_03-publishing-container-images/releases/tag/v1.0.0) in [chadelofson/03_03-publishing-container-images](https://github.com/chadelofson/03_03-publishing-container-images)
   <!--END_SECTION:activity-->
 
 
