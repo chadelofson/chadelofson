@@ -58,7 +58,7 @@
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   <!--START_SECTION:activity-->
-1. 🚀 Published release [1.0.0](https://github.com/chadelofson/03_04-publishing-software-packages/releases/tag/1.0.0) in [chadelofson/03_04-publishing-software-packages](https://github.com/chadelofson/03_04-publishing-software-packages)
+1. 🗣 Commented on [#42](https://github.com/sgrif/pq-sys/issues/42#issuecomment-1655118371) in [sgrif/pq-sys](https://github.com/sgrif/pq-sys)
   <!--END_SECTION:activity-->
 
 
