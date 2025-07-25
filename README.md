@@ -6,9 +6,9 @@
 
 ## I'm a Husband, Father, Developer!!
 
-- 🌱 I’m currently relearning Java 🤣
+- 🌱 I’m currently covering Python and AI Engineering 🤣
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Pivot to a full-time developer job in Backend development
+- 🥅 Goals: Pivot to Backend development
 - ⚡ Fun fact: I love to ride motocycles and bowl
 
 ### Connect with me:
@@ -16,7 +16,7 @@
 [![website](./img/twitter-svgrepo-com.svg)](https://twitter.com/chadelofson#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/chadelofson#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/chadelofson#gh-dark-mode-only)
+[![website](./img/black-linkedin-logo-15915.svg)](https://linkedin.com/in/chadelofson#gh-dark-mode-only)
 
 ### Languages and Tools:
 [<img align="left" alt="NeoVIM" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />](https://neovim.io)
