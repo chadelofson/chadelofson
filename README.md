@@ -6,7 +6,7 @@
 
 ## I'm a Husband, Father, Developer!!
 
-- 🌱 I’m currently covering Python and AI Engineering 🤣
+- 🌱 I’m currently working on Go, Python and AI Engineering 🤣
 - 👯 I’m looking to collaborate with other developers
 - 🥅 Goals: Pivot to Backend development
 - ⚡ Fun fact: I love to ride motocycles and bowl
