@@ -12,13 +12,11 @@
 - ⚡ Fun fact: I love to ride motocycles and bowl
 
 ### Connect with me:
-[![website](./img/twitter-154-svgrepo-com.svg)](https://twitter.com/chadelofson#gh-light-mode-only)
-[![website](./img/twitter-svgrepo-com.svg)](https://twitter.com/chadelofson#gh-dark-mode-only)
+<a href="https://twitter.com/chadelofson#gh-light-mode-only" target="_blank"><img src="./img/twitter-154-svgrepo-com.svg" alt="Twitter Logo for Light Mode" width="" height /></a>
+<a href="https://twitter.com/chadelofson#gh-dark-mode-only" target="_blank"><img src="./img/twitter-svgrepo-com.svg" alt="Twitter mode icon for LinkedIn" width="40" height="40" /></a>
 &nbsp;&nbsp;
-<img src="" alt="" width="" height />
-
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/chadelofson#gh-light-mode-only)
-[![website](<img src="./img/black-linkedin-logo-15915.svg" alt="Dark mode icon for LinkedIn" width="40" height="40" />)](https://linkedin.com/in/chadelofson#gh-dark-mode-only)
+<a href="https://linkedin.com/in/chadelofson#gh-light-mode-only" target="_blank"><img src="./img/linkedin-light.svg" alt="LinkedIn Logo for Light Mode" width="" height /></a>
+<a href="https://linkedin.com/in/chadelofson#gh-dark-mode-only" target="_blank"><img src="./img/black-linkedin-logo-15915.svg" alt="Dark mode icon for LinkedIn" width="40" height="40" /></a>
 
 ### Languages and Tools:
 [<img align="left" alt="NeoVIM" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" style="padding-right:10px;" />](https://neovim.io)
