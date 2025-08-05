@@ -14,8 +14,8 @@
 ### Connect with me:
 <a href="https://x.com/chadelofson" target="_blank">
   <picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" media="(prefers-color-scheme: light)">
-    <source srcset="https://raw.githubusercontent.com/chadelofson/chadelofson/main/img/x-dark.svg" media="(prefers-color-scheme: dark)">
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="40" media="(prefers-color-scheme: light)">
+    <source srcset="https://raw.githubusercontent.com/chadelofson/chadelofson/main/img/x-dark.svg" width="40" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/chadelofson/chadelofson/main/img/x.svg" width="40" alt="X Logo" />
   </picture>    
 </a>
