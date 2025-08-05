@@ -14,7 +14,7 @@
 ### Connect with me:
 <a href="https://twitter.com/chadelofson#gh-light-mode-only" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="X Lightmode logo" width="40" height="40" /></a>
 <a href="https://twitter.com/chadelofson#gh-dark-mode-only" target="_blank">
-  <picture width="40" height="40">
+  <picture>
     <source
       srcset="./img/x.svg"
       media="(orientation: portrait)" />
