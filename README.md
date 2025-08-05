@@ -12,10 +12,14 @@
 - ⚡ Fun fact: I love to ride motocycles and weight training
 
 ### Connect with me:
-<a href="https://twitter.com/chadelofson#gh-light-mode-only" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" alt="X Lightmode logo" width="40" height="40" /></a>
-<a href="https://x.com/chadelofson#gh-dark-mode-only" target="_blank">
-  <img src="https://raw.githubusercontent.com/chadelofson/chadelofson/main/img/x.svg" alt="X Logo" />
+<a href="https://x.com/chadelofson" target="_blank">
+  <picture>
+    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" media="(prefers-color-scheme: light)">
+    <source srcset="https://raw.githubusercontent.com/chadelofson/chadelofson/main/img/x-dark.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/chadelofson/chadelofson/main/img/x.svg" width="40" alt="X Logo" />
+  </picture>    
 </a>
+
 &nbsp;&nbsp;
 
 <a href="https://linkedin.com/in/chadelofson#gh-dark-mode-only" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn logo" width="40" height="40" /></a>
