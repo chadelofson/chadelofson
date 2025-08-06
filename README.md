@@ -2,8 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=chadelofson.com&style=for-the-badge&url=https%3A%2F%2Fchadelofson.com)](https://chadelofson.com)
 
-
-
 ## I'm a Husband, Father, Developer!!
 
 - 🌱 I’m currently working on Go, Python and AI Engineering 🤣
@@ -11,20 +9,7 @@
 - 🥅 Goals: Pivot to Backend development
 - ⚡ Fun fact: I love to ride motocycles and weight training
 
-### Connect with me:
-<a href="https://x.com/chadelofson" target="_blank">
-  <picture>
-    <source srcset="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/twitter/twitter-original.svg" width="40" media="(prefers-color-scheme: light)">
-    <source srcset="https://raw.githubusercontent.com/chadelofson/chadelofson/main/img/x.svg" width="40" media="(prefers-color-scheme: dark)">
-    <img src="https://raw.githubusercontent.com/chadelofson/chadelofson/main/img/x.svg" width="40" alt="X Logo" />
-  </picture>    
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/chadelofson#gh-dark-mode-only" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn logo" width="40" height="40" /></a>
-
-### Languages and Tools:
+## Languages and Tools:
 [<img align="left" alt="HTML5 Logo" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [<img align="left" alt="CSS3 Logo" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img align="left" alt="JavaScript Logo" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -37,9 +22,6 @@
 [<img align="left" alt="Postgres" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" align="padding-right:10px;" />](https://www.postgresql.org/)
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com)
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />](https://git-scm.com)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />](https://github.com)
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com)
-
 <br />
 <br />
 
